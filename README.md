@@ -23,7 +23,11 @@ Die Pfade zu den Ordnern im Skript anpassen. Dazu das Skript öffnen und und die
 Falls deine Rechnungsnummern nicht aus 3 Ziffern bestehen, musst du die richtige Anzahl der Ziffern in Zeile 13 anpassen.
 
 ### Step 4:
-Im Terminal "pip install pdfplumber pandas" ausführen
+Im Terminal
+```
+pip install pdfplumber pandas
+```
+ausführen
 
 ### Step 5:
 Run the script. Wenn alles richtig gemacht wurde, sollten im Ordner "Tabellen" vier Tabellen sein. In der Datei "Mega-Tabelle" sind jetzt zu jeden Auftrag die wichtigsten Daten zusammengetragen.
